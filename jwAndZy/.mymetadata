@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="jwAndZy"
+  id="myeclipse.1460981072517"
+  context-root="/jwAndZy"
+  j2ee-spec="5.0"
+  archive="jwAndZy.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
